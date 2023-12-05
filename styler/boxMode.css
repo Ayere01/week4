@@ -14,7 +14,7 @@ section{
 p{
     font-size: 1.5rem;
     overflow: auto;
-    line-height: 200%;
+    line-height: 2.0;
     height: 150px;
 }
 
